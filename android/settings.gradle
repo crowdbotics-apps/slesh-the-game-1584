@@ -1,0 +1,3 @@
+rootProject.name = 'slesh_the_game_1584'
+
+include ':app'
